@@ -21,7 +21,7 @@ THING.factory.registerClass('CheLun2',CheLun2)
 // '/api/scene/-20181718585115866' 
 // '/api/scene/-20181719473515854'测试
 var app = new THING.App({
-    url:  '/api/scene/-20181718585115866', // 场景地址
+    url:  './scene/1', // 场景地址
     skyBox:"BlueSky",
     resourceLibraryUrl:'./'
 });
